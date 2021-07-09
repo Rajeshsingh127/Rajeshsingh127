@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on <a href ='http://petbookbyrajesh.herokuapp.com/'>PETBOOK</a>
-- 🌱 I’m currently learning Django Rest Framework and React js 
+- 🌱 I’m currently learning python and javascript 
 - 📫 How to reach me: rajeshsinghchufal@outlook.com 
 - ⚡ Fun fact: I love playing Baskteball
 - 
