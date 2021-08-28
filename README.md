@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning python and javascript 
 - 📫 How to reach me: rajeshsinghchufal@outlook.com 
 - ⚡ Fun fact: I love playing Baskteball
-- 
