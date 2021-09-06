@@ -5,5 +5,7 @@
 - 📫 How to reach me: rajeshsinghchufal@outlook.com 
 - ⚡ Fun fact: I love playing Baskteball
 
-[![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=Rajeshsingh127)](https://github.com/Rajeshsingh127/github-readme-stats)
+[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeshsingh127)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
