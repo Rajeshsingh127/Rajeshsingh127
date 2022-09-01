@@ -7,7 +7,7 @@
  
 </p>
 
-- 🔭 I’m currently working on [working](working@)
+- 🔭 I’m currently working at **Bytegage**
 
 - 🌱 I’m currently learning **Javascript,html**
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **react,javascript,html**
 
-- 📫 How to reach me **RJ@gmail.com**
+- 📫 How to reach me **rajeshsinghchufal@gmail.com**
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact **I love playing Baskteball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
