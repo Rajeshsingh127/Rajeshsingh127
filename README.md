@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">, I'm Rajesh singh</h1>
 <h3 align="center">💫 A passionate frontend developer from India 💫</h3>
-<img align="right" alt="coding" width="500" src="https://github.com/Rajeshsingh127/Rajeshsingh127/blob/main/rj.gif">
+<img align="right" alt="coding" width="450" src="https://github.com/Rajeshsingh127/Rajeshsingh127/blob/main/rj.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajeshsingh127&label=Profile%20views&color=18e200&style=flat" alt="Rajeshsingh" />
 <a href="https://github.com/Rajeshsingh127"><img src="https://img.shields.io/github/followers/Rajeshsingh127?label=follow&style=social"></a>
 <a href="https://github.com/Rajeshsingh127"><img src="https://img.shields.io/badge/Made%20✨%20By-Rajesh Singh-61E9F5"></a>
