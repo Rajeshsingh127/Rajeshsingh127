@@ -7,7 +7,7 @@
  
 </p>
 
-- 🔭 I’m currently working at **Bytegage**
+- 🔭 I’m currently working at [Bytegage]()
 
 - 🌱 I’m currently learning **Javascript,html**
 
