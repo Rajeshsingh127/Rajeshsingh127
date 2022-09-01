@@ -7,11 +7,17 @@
  
 </p>
 
-- 🌱 I’m currently learning **Javascript,frontend,python**
+- 🔭 I’m currently working on [working](working@)
 
-- 📫 How to reach me **rajeshsinghchufal@outlook.com**
+- 🌱 I’m currently learning **Javascript,html**
 
-- ⚡ Fun fact **I am funny**
+- 👨‍💻 All of my projects are available at [github]()
+
+- 💬 Ask me about **react,javascript,html**
+
+- 📫 How to reach me **RJ@gmail.com**
+
+- ⚡ Fun fact **I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
