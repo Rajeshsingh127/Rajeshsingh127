@@ -6,13 +6,12 @@
 <a href="https://github.com/Rajeshsingh127"><img src="https://img.shields.io/badge/Made%20✨%20By-Rajesh Singh-61E9F5"></a>
 </p>
 
-- 🔭 I’m currently working at [Bytegage]()
 
 - 🌱 I’m currently learning **Javascript,html**
 
 - 👨‍💻 All of my projects are available at [github]()
 
-- 💬 Ask me about **react,javascript,html**
+- 💬 Ask me about **react, javascript, html, css, DSA**
 
 - 📫 How to reach me **rajeshsinghchufal@gmail.com**
 
